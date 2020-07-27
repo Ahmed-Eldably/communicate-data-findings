@@ -1,6 +1,6 @@
 # communicate-data-findings
 
-I chose Ford GoBike System Dataset betwee January 2019 and December 2019 for my Anaylsis.
+I chose Ford GoBike System Dataset betwee January 2019 and December 2019 for my Anaylsis. I was interested in trying to understand more about user preferences, help to discover usage pattern, rider characteristics.
 
 There are two datsets in the branch:
 
